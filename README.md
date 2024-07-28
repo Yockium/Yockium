@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Yockium/Yockium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am Matfey, a developer passionate about new technologies and continuous learning.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Learning: [JavaScript, React.js, Node.js, Python, Django, Java, SpringBoot]
+- 📫 How to reach me: [mtfmattye@mgail.com]
+
+## My languages
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+
+## My technologies and tools
+
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat-square&logo=webstorm)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea)
+![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm)
+
+## 📊 GitHub Stats
+
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
