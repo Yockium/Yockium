@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I am Matfey, a developer passionate about new technologies and continuous learning.
+I am Matfey, a developer passionate about new technologies and continuous learning.
 
 ## About Me
 
