@@ -29,5 +29,5 @@ I am Matfey, a developer passionate about new technologies and continuous learni
 
 ## 📊 GitHub Stats
 
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=Yockum&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yockum&layout=compact&theme=radical)
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=Yockium&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yockium&layout=compact&theme=radical)
