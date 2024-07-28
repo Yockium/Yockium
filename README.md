@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I am Matfey, a developer passionate about new tech
 
 ## About Me
 
-- 🌱 Learning: [JavaScript, React.js, Node.js, Python, Django, Java, SpringBoot]
-- 📫 How to reach me: [mtfmattye@mgail.com]
+- 🌱 Learning: JavaScript, React.js, Node.js, Python, Django, Java, SpringBoot
+- 📫 How to reach me: mtfmattye@mgail.com
 
 ## My languages
 
@@ -27,5 +27,5 @@ Welcome to my GitHub profile! I am Matfey, a developer passionate about new tech
 
 ## 📊 GitHub Stats
 
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=Yockum&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yockum&layout=compact&theme=radical)
