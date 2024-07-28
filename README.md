@@ -27,7 +27,6 @@ I am Matfey, a developer passionate about new technologies and continuous learni
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm)
 
-## 📊 GitHub Stats
+## 📊 GitHub top languages
 
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=Yockium&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yockium&layout=compact&theme=radical)
