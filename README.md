@@ -4,7 +4,7 @@ I am Matfey, a developer passionate about new technologies and continuous learni
 
 ## About Me
 
-- 🌱 Learning: JavaScript, React.js, Node.js, Python, Django, Java, SpringBoot
+- 🌱 Learning: JavaScript/TypeScript, React.js, Node.js, Python, Django, Java, SpringBoot
 - 📫 How to reach me: mtfmattye@mgail.com
 
 ## My languages
