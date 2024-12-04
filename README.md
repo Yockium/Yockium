@@ -6,7 +6,7 @@ I am Matfey, a developer passionate about new technologies and continuous learni
 
 ## About Me
 
-- 🌱 Learning: JavaScript, React.js, Python, Java, SpringBoot
+- 🌱 TypeScript, React.ts, Python, Java, SpringBoot
 - 📫 How to reach me: mtfmattye@mgail.com
 
 ## My languages
