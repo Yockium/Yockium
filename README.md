@@ -10,7 +10,7 @@ I am Matfey, a developer passionate about new technologies and continuous learni
 - 📫 How to reach me: mtfmattye@mgail.com
 
 ## My languages
-
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
